@@ -29,20 +29,18 @@ Our Anti-Harassment Policy prohibits the following:
 
 Event organizers/volunteers will:
 
-*   Contact venue security or local law enforcement;
+*   Contact local law enforcement or venue security
 
 *   Provide escorts
 
 *   Assist those experiencing harassment to feel safe for the duration of the event
 
-The event organizers/volunteers will take appropriate action against unacceptable behavior. Organizes may expel participants from the event without warning or refund.
-
-Event volunteers are happy to help participants contact local law enforcement and provide escorts. Volunteers will assist those experiencing harassment to feel safe for the duration of the event. We value you, your safety and your experience.
+The event organizers/volunteers will take appropriate action against unacceptable behavior. Organizers may expel participants from the event without warning or refund.
 
 
 ### Expectations for Everyone
 
-At all meetings and social events we expect everyone will:
+At all community and social events we expect everyone will:
 
 *   Be considerate, respectful, and collaborative
 
@@ -54,19 +52,15 @@ At all meetings and social events we expect everyone will:
 
 *   Alert meeting organizers and volunteers if you notice a dangerous situation or someone in distress
 
-### Expectations for Sponsors
+### Expectations for Sponsors, Staff
 
-Sponsors, vendors, and staff are subject to the anti-harassment policy. 
-
-Sponsors/Vendors/Staff expectations include:
-
-*   No sexualised images or activities
+Sponsors (otherwise known as vendors, booth staff) and other staff are subject to the anti-harassment policy. Sponsors and staff agree to the following:
 
 *   No Inappropriate and offensive material
 
-*   No sexualised clothing/uniforms/costumes
+*   No sexualised images or activities
 
-*   No inappropriate and offensive material
+*   No sexualised clothing/uniforms/costumes
 
 -----
 
