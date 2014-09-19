@@ -1,7 +1,7 @@
 # Code of Conduct
 We expect all participants will be considerate, respectful, and collaborative at all community events. 
 
-The CoC applies to all participants. Participants include attendees, speakers, organizers, volunteers, sponsors and vendors.
+The CoC applies to all participants. Participants include attendees, speakers, organizers, volunteers, sponsors, vendors and staff.
 
 The CoC applies at all official and unofficial events. Unofficial events include any location where attendees may be congregating.
 
@@ -15,7 +15,7 @@ Our Anti-Harassment Policy prohibits the following:
 
 *   Deliberate intimidation, stalking, or following
 
-*   Harassing photography or recording; sustained disruption of talks or events
+*   Harassing photography or recording
 
 *   Inappropriate physical contact, and unwelcome sexual attention
 
@@ -27,7 +27,7 @@ Our Anti-Harassment Policy prohibits the following:
 
 ### Expectations for Organizers/Volunteers
 
-Event volunteers will:
+Event organizers/volunteers will:
 
 *   Contact venue security or local law enforcement;
 
@@ -35,7 +35,7 @@ Event volunteers will:
 
 *   Assist those experiencing harassment to feel safe for the duration of the event
 
-The event organizers will take appropriate action against unacceptable behavior. Organizes may expel participants from the event without warning or refund.
+The event organizers/volunteers will take appropriate action against unacceptable behavior. Organizes may expel participants from the event without warning or refund.
 
 Event volunteers are happy to help participants contact local law enforcement and provide escorts. Volunteers will assist those experiencing harassment to feel safe for the duration of the event. We value you, your safety and your experience.
 
@@ -52,7 +52,7 @@ At all meetings and social events we expect everyone will:
 
 *   Be mindful of your surroundings and of your fellow participants
 
-*   Alert meeting organizers if you notice a dangerous situation or someone in distress
+*   Alert meeting organizers and volunteers if you notice a dangerous situation or someone in distress
 
 ### Expectations for Sponsors
 
