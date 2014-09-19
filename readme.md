@@ -1,8 +1,3 @@
-title: code-of-conduct
-date: 2014-08-13 03:19:41
-comments: true
----
-
 # Code of Conduct
 We expect all participants will be considerate, respectful, and collaborative at all community events. 
 
