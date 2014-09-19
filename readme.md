@@ -65,6 +65,6 @@ Sponsors (otherwise known as vendors, booth staff) and other staff are subject t
 -----
 
 #### About our Community CoC
-Current Techlahoma Event Code of Conduct based on our friends in [OKCrb](http://www.okcruby.org/about/), [Vermont](http://burlingtonruby.com/conduct.html), and [JS Conf/Ada Iniative.](http://2012.jsconf.us/#/about)
+Current Techlahoma Event Code of Conduct based on our friends in [OKCrb](http://www.okcruby.org/about/), [Burlington Ruby](http://burlingtonruby.com/conduct.html), and [JS Conf/Ada Iniative.](http://2012.jsconf.us/#/about)
 
 This work is licensed under a Creative Commons Attribution 3.0 Unported License
