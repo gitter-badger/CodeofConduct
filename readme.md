@@ -1,4 +1,6 @@
 # Code of Conduct
+
+[![Join the chat at https://gitter.im/techlahoma/CodeofConduct](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/techlahoma/CodeofConduct?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 We expect all participants will be considerate, respectful, and collaborative at all community events. 
 
 The CoC applies to all participants. Participants include attendees, speakers, organizers, volunteers, sponsors, vendors and staff.
